@@ -6,7 +6,9 @@
 
 # Demo reto #2  carrito de compras
 
-![shoppingApp](https://i.imgur.com/X8C4zb5.gif)
+![carrito](https://i.imgur.com/X8C4zb5.gif)
+
+https://i.imgur.com/X8C4zb5.gif
 
 # Reto 3 chat
 
